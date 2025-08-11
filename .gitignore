@@ -1,0 +1,12 @@
+transfuser/log/*
+late_fusion/log/*
+geometric_fusion/log/*
+aim/log/*
+cilrs/log/*
+x13/log/*
+s13/log/*
+*/log/*
+data/*
+carla/*
+model_ckpt
+!data/README.md
