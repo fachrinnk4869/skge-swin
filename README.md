@@ -13,7 +13,7 @@
     - [skgeswin](https://github.com/fachrinnk4869/skge-swin/tree/main/skgeswin) (proposed model)
     - [skgeswin_16](https://github.com/fachrinnk4869/skge-swin/tree/main/skgeswin_16) (proposed model float 16)
     - [X13](https://github.com/fachrinnk4869/skge-swin/tree/main/x13) 
-    - [S13](https://github.com/fachrinnk4869/skge-swin/tree/main/s13) (proposed model without SDC mapping)
+    - [S13](https://github.com/fachrinnk4869/skge-swin/tree/main/s13)
     - [CILRS](https://github.com/fachrinnk4869/skge-swin/tree/main/cilrs)
     - [AIM](https://github.com/fachrinnk4869/skge-swin/tree/main/aim)
     - [LF](https://github.com/fachrinnk4869/skge-swin/tree/main/late_fusion)

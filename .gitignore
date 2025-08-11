@@ -10,3 +10,4 @@ data/*
 carla/*
 model_ckpt
 !data/README.md
+.vscode
